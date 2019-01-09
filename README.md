@@ -1,1 +1,2 @@
-# gunshot-detection
+# gunshot detection
+The code (two jupyter notebooks) replicates un-ensembled method for the [Lim's paper](http://www.cs.tut.fi/sgn/arg/dcase2017/documents/challenge_technical_reports/DCASE2017_Lim_204.pdf) of the DCASE-2017 Task 2 http://www.cs.tut.fi/sgn/arg/dcase2017/challenge/task-rare-sound-event-detection. The achieved results seem to attribute partially to the CRNN network architecture and partially to the training data augmentation. 
